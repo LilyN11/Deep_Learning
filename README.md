@@ -19,7 +19,7 @@ Formulate a specific weak supervision problem to address and justify its usefuln
 - **(Thursday April 10th)** Finish Experimentation 
 
 ## Groups:
-* **Semi-Supervised Team**: Rui, Lily, Hannah
+* **Weakly-Supervised Team**: Rui, Lily, Hannah
   * *RUI* Segment Anything / Clip: https://github.com/facebookresearch/segment-anything *bounding box* 
   * *Hannah & Katherine* Grad Cam Plus: https://github.com/adityac94/Grad_CAM_plus_plus *In Tensorflow*
   * *Lily* Another Architecture/ Model 
