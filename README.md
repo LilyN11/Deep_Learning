@@ -15,6 +15,13 @@ Formulate a specific weak supervision problem to address and justify its usefuln
 ## Tasks:
 ### Literature Review Questions
 * Why semi-supervised vs fully supervised (e.g. more efficient and less training data)
+* From Slides:
+*   Why the problem
+*   Which algorithm, loss, optimiser, training strategy?
+*   Does additional data help
+*   metrics for segmentation tasks?
+*   What are the experiments to compare these networks?
+*   What can we conclude from the results?
 ### Methodlogical Tasks 
 * (2) baseline fully supervised models (with pixel mask) 
 * (2) baseline weakly supervised model
