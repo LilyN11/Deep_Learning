@@ -14,13 +14,14 @@ Formulate a specific weak supervision problem to address and justify its usefuln
 
 # Timeline
 - **(Monday March 31st)** Summary from both teams about potential models
+- **(Thursday April 3st)** Discussion Results for Model Performance 
 - **(Tuesday April 8th)** Start Calculating Final Statistics for Models 
 - **(Thursday April 10th)** Finish Experimentation 
 
 ## Groups:
-* **Semi-Supervised Team**: Rui 
- * __RUI__ Segment Anything / Clip: https://github.com/facebookresearch/segment-anything __bounding box__ 
- * Grad Cam Plus: https://github.com/adityac94/Grad_CAM_plus_plus __In Tensorflow__
+* **Semi-Supervised Team**: Rui, Lily 
+  * *RUI* Segment Anything / Clip: https://github.com/facebookresearch/segment-anything *bounding box* 
+  * Grad Cam Plus: https://github.com/adityac94/Grad_CAM_plus_plus *In Tensorflow*
 * **Fully Supervised Team**
 
 ## Tasks:
