@@ -1,4 +1,4 @@
-# Deep_Learning
+# Deep_Learning !!!DUE APRIL 14!!!
 ## Minimum required project (70%) [Pytorch]
 Formulate a specific weak supervision problem to address and justify its usefulness and feasibility.
 * Discuss and justify which weakly-supervised segmentation algorithm to use.
@@ -12,8 +12,19 @@ Formulate a specific weak supervision problem to address and justify its usefuln
 - Everyone familiar with Github
 - UCL Cluster SSH Access (Optional)
 
+# Timeline
+- **(Monday March 31st)** Summary from both teams about potential models
+- **(Tuesday April 8th)** Start Calculating Final Statistics for Models 
+- **(Thursday April 10th)** Finish Experimentation 
+
+## Groups:
+* **Semi-Supervised Team**: Rui 
+ * __RUI__ Segment Anything / Clip: https://github.com/facebookresearch/segment-anything __bounding box__ 
+ * Grad Cam Plus: https://github.com/adityac94/Grad_CAM_plus_plus __In Tensorflow__
+* **Fully Supervised Team**
+
 ## Tasks:
-### Literature Review Questions
+### Broader Questions
 * Why semi-supervised vs fully supervised (e.g. more efficient and less training data)
 * From Slides:
   * Why the problem
