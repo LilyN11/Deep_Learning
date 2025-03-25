@@ -19,15 +19,15 @@ Formulate a specific weak supervision problem to address and justify its usefuln
 - **(Thursday April 10th)** Finish Experimentation 
 
 ## Groups:
-* **Weakly-Supervised Team**: Rui, Lily, Hannah
-  * *RUI* Segment Anything / Clip: https://github.com/facebookresearch/segment-anything *bounding box* 
+* **Weakly-Supervised Team**: Rui, Lily, Hannah, and Katherine
+  * *Rui* Segment Anything / Clip: https://github.com/facebookresearch/segment-anything *bounding box* 
   * *Hannah & Katherine* Grad Cam Plus: https://github.com/adityac94/Grad_CAM_plus_plus *In Tensorflow*
   * *Lily* Another Architecture/ Model 
 * **Fully Supervised Team**: Stephen, Dani, & Trevor 
 
 ## Tasks:
 ### Broader Questions
-* Why semi-supervised vs fully supervised (e.g. more efficient and less training data)
+* Why weakly-supervised vs fully supervised (e.g. more efficient and less training data)
 * From Slides:
   * Why the problem
   * Which algorithm, loss, optimiser, training strategy?
