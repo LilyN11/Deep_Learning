@@ -14,7 +14,7 @@ Formulate a specific weak supervision problem to address and justify its usefuln
 
 # Timeline
 - **(Monday March 31st)** Summary from both teams about potential models
-- **(Thursday April 3st)** Discussion Results for Model Performance 
+- **(Thursday April 3rd)** Discussion Results for Model Performance 
 - **(Tuesday April 8th)** Start Calculating Final Statistics for Models 
 - **(Thursday April 10th)** Finish Experimentation 
 
