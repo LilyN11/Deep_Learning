@@ -23,7 +23,7 @@ Formulate a specific weak supervision problem to address and justify its usefuln
     - GradCam with Clip *Rui*
     - Bounding Boxes *Katherine and Hannah*
   - *Dani* will work on motivating, identifying and collecting additional weakly-labelled or unlabelled data
-- **(Thursday April 3rd)** Discussion Results for Model Performance 
+- **(Thursday April 3rd)** Discussion of results in progress 
 - **(Tuesday April 8th)** Start Calculating Final Statistics for Models 
 - **(Thursday April 10th)** Finish Experimentation 
 
