@@ -15,12 +15,14 @@ Formulate a specific weak supervision problem to address and justify its usefuln
 # Timeline
 - **(Monday March 31st)**
   - Notes: Stephen implemented Resnet34 and U-net using the pixel level masks. 
-    - Problems arising: trouble getting into UCL clusters and matplotlib working in the coursework environment **Ziad will work with Stephen**
+    - Problems arising: trouble getting into UCL clusters and matplotlib working in the coursework environment **Ziad and Trevor will work with Stephen**
   - Rui implemented Grad Cam + CLIP 
     - Minor note: Clipseg is not weakly supervised (in between)
   - Task: Experiment with different versions of GradCam with a classifier
     - Affinitynet *Lily*
     - GradCam with Clip *Rui*
+    - Bounding Boxes *Katherine and Hannah*
+  - *Dani* will work on motivating, identifying and collecting additional weakly-labelled or unlabelled data
 - **(Thursday April 3rd)** Discussion Results for Model Performance 
 - **(Tuesday April 8th)** Start Calculating Final Statistics for Models 
 - **(Thursday April 10th)** Finish Experimentation 
