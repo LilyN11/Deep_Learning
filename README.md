@@ -13,7 +13,9 @@ Formulate a specific weak supervision problem to address and justify its usefuln
 - UCL Cluster SSH Access (Optional)
 
 # Timeline
-- **(Monday March 31st)** Summary from both teams about potential models
+- **(Monday March 31st)**
+  - Notes: Steven implemented Resnet34 and U-net using the pixel level masks. 
+    - Problems arising: trouble getting into UCL clusters and matplotlib working in the coursework environment
 - **(Thursday April 3rd)** Discussion Results for Model Performance 
 - **(Tuesday April 8th)** Start Calculating Final Statistics for Models 
 - **(Thursday April 10th)** Finish Experimentation 
