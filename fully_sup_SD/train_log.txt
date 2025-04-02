@@ -1,0 +1,60 @@
+Epoch 1/10
+Running batch 185/185, batch time 5.33, batch loss 0.1259
+Evaluating...
+Evaluation complete.
+Epoch time: 1208.61s
+Epoch 01 | Train Loss: 0.3864 | Val IoU: 0.7910 | Val Dice: 0.8761
+Epoch 2/10
+Running batch 185/185, batch time 5.33, batch loss 0.1007
+Evaluating...
+Evaluation complete.
+Epoch time: 1066.58s
+Epoch 02 | Train Loss: 0.1236 | Val IoU: 0.8159 | Val Dice: 0.8912
+Epoch 3/10
+Running batch 185/185, batch time 5.50, batch loss 0.0844
+Evaluating...
+Evaluation complete.
+Epoch time: 1051.73s
+Epoch 03 | Train Loss: 0.0941 | Val IoU: 0.8352 | Val Dice: 0.9046
+Epoch 4/10
+Running batch 185/185, batch time 5.32, batch loss 0.0739
+Evaluating...
+Evaluation complete.
+Epoch time: 1082.47s
+Epoch 04 | Train Loss: 0.0798 | Val IoU: 0.8368 | Val Dice: 0.9052
+Epoch 5/10
+Running batch 185/185, batch time 5.07, batch loss 0.0675
+Evaluating...
+Evaluation complete.
+Epoch time: 1086.91s
+Epoch 05 | Train Loss: 0.0710 | Val IoU: 0.8438 | Val Dice: 0.9097
+Epoch 6/10
+Running batch 185/185, batch time 5.24, batch loss 0.0700
+Evaluating...
+Evaluation complete.
+Epoch time: 1033.71s
+Epoch 06 | Train Loss: 0.0656 | Val IoU: 0.8526 | Val Dice: 0.9150
+Epoch 7/10
+Running batch 185/185, batch time 5.31, batch loss 0.0543
+Evaluating...
+Evaluation complete.
+Epoch time: 1049.45s
+Epoch 07 | Train Loss: 0.0625 | Val IoU: 0.8493 | Val Dice: 0.9128
+Epoch 8/10
+Running batch 185/185, batch time 5.16, batch loss 0.0566
+Evaluating...
+Evaluation complete.
+Epoch time: 1046.68s
+Epoch 08 | Train Loss: 0.0555 | Val IoU: 0.8583 | Val Dice: 0.9189
+Epoch 9/10
+Running batch 185/185, batch time 5.13, batch loss 0.0461
+Evaluating...
+Evaluation complete.
+Epoch time: 1061.06s
+Epoch 09 | Train Loss: 0.0507 | Val IoU: 0.8513 | Val Dice: 0.9146
+Epoch 10/10
+Running batch 185/185, batch time 5.39, batch loss 0.0503
+Evaluating...
+Evaluation complete.
+Epoch time: 1185.54s
+Epoch 10 | Train Loss: 0.0475 | Val IoU: 0.8549 | Val Dice: 0.9166
